@@ -30,7 +30,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Limits are Real Numbers that a function can approach but never touch. This lesson outlines both algebraically and graphically the conditions needed for a limit to a exist and the scenarios where it cannot exist.">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>MyHomeworkRewards</title>
+    <title>Solving Probability Words Problems</title>
 	<!-- Favicon -->
 	<link rel="icon" href="https://app.myhomeworkrewards.com/images/favicon.png" type="image/icon type">
 	<link rel="stylesheet" href="bootstrap.min.css">
@@ -124,9 +124,9 @@
 						</p>
 
                          <!-- This is the 1st question -->
-					    
+					    <hr>
 						 <div class="well well-sm">
-							<p>A survey was conducted among 50 student about their favorite sports. The data is summarized in the table: </span><span id="MathJax-Element-10-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>240</mn><mn>000</mn><mspace width=&quot;thickmathspace&quot; /><mo stretchy=&quot;false&quot;>[</mo><mtext>riders/day</mtext><mo stretchy=&quot;false&quot;>]</mo></math>" role="presentation"><span id="MJXc-Node-28" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-29" class="mjx-mrow"><span id="MJXc-Node-30" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">240</span></span><span id="MJXc-Node-31" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">000</span></span><span id="MJXc-Node-32" class="mjx-mspace" style="width: 0.278em; height: 0px;"></span><span id="MJXc-Node-33" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;">[</span></span><span id="MJXc-Node-34" class="mjx-mtext"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span><span id="MJXc-Node-35" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>240</mn><mn>000</mn><mspace width="thickmathspace"></mspace><mo stretchy="false"></mo><mtext></mtext><mo stretchy="false"></mo></math></span></span><script type="math/tex" id="MathJax-Element-10">240 000\; </script>  <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-11-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>$</mo></mrow><mn>2</mn></math>" role="presentation"><span id="MJXc-Node-36" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-37" class="mjx-mrow"><span id="MJXc-Node-38" class="mjx-texatom"><span id="MJXc-Node-39" class="mjx-mrow"><span id="MJXc-Node-40" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.369em;"></span></span></span></span><span id="MJXc-Node-41" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">2</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo></mo></mrow><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-11"></script><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-12-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>$</mo></mrow><mn>0.10</mn></math>" role="presentation"><span id="MJXc-Node-42" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-43" class="mjx-mrow"><span id="MJXc-Node-44" class="mjx-texatom"><span id="MJXc-Node-45" class="mjx-mrow"><span id="MJXc-Node-46" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.369em;"></span></span></span></span><span id="MJXc-Node-47" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo></mo></mrow><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-12"></script><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-13-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>10</mn><mn>000</mn></math>" role="presentation"><span id="MJXc-Node-48" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-49" class="mjx-mrow"><span id="MJXc-Node-50" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">10</span></span><span id="MJXc-Node-51" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">000</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>10</mn><mn>000</mn></math></span></span><script type="math/tex" id="MathJax-Element-13">10 000</script></p>
+							<p>A survey was conducted among 50 student about their favorite sports. The data is summarized in the table: </span><span id="MathJax-Element-10-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>240</mn><mn>000</mn><mspace width=&quot;thickmathspace&quot; /><mo stretchy=&quot;false&quot;>[</mo><mtext>riders/day</mtext><mo stretchy=&quot;false&quot;>]</mo></math>" role="presentation"><span id="MJXc-Node-28" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-29" class="mjx-mrow"><span id="MJXc-Node-30" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">240</span></span><span id="MJXc-Node-31" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">000</span></span><span id="MJXc-Node-32" class="mjx-mspace" style="width: 0.278em; height: 0px;"></span><span id="MJXc-Node-33" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;">[</span></span><span id="MJXc-Node-34" class="mjx-mtext"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span><span id="MJXc-Node-35" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>240</mn><mn>000</mn><mspace width="thickmathspace"></mspace><mo stretchy="false"></mo><mtext></mtext><mo stretchy="false"></mo></math></span></span><script type="math/tex" id="MathJax-Element-10">240 000\; </script>  <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-11-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>$</mo></mrow><mn>2</mn></math>" role="presentation"><span id="MJXc-Node-36" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-37" class="mjx-mrow"><span id="MJXc-Node-38" class="mjx-texatom"><span id="MJXc-Node-39" class="mjx-mrow"><span id="MJXc-Node-40" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.369em;"></span></span></span></span><span id="MJXc-Node-41" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">2</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo></mo></mrow><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-11"></script><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-12-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>$</mo></mrow><mn>0.10</mn></math>" role="presentation"><span id="MJXc-Node-42" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-43" class="mjx-mrow"><span id="MJXc-Node-44" class="mjx-texatom"><span id="MJXc-Node-45" class="mjx-mrow"><span id="MJXc-Node-46" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.369em;"></span></span></span></span><span id="MJXc-Node-47" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo></mo></mrow><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-12"></script><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-13-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>10</mn><mn>000</mn></math>" role="presentation"><span id="MJXc-Node-48" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-49" class="mjx-mrow"><span id="MJXc-Node-50" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">10</span></span><span id="MJXc-Node-51" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">000</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn></mn><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-13"></script></p>
 							<table border="1" style="border-collapse: separate; border-spacing: 10px; border-radius: 10px; overflow: hidden;">
 							<tr>
 								<th style="padding: 10px;">Sport</th>
@@ -158,10 +158,86 @@
 							</ol>
 					    </div>
 
-                        <!-- TODO: Finish the first Question Answer block by typing the explanations in the places where the i put comments in the <p>. tags-->
+                       <!--1st questions explanations -->
 						<span class="show-answer collapsed" style="cursor: pointer; text-decoration: underline;" 
           				data-target="example" aria-pressed="false">Show Answer</span>
 						<div id="example" class="hidden-answer">
+						<p><strong>Data Table:</strong></p>
+							<p>For instance, assume the following data:</p>
+							<ul>
+								<li>Soccer: 20 students</li>
+								<li>Tennis: 15 students</li>
+								<li>Basketball: 10 students</li>
+								<li>Other sports: 5 students</li>
+							</ul>
+
+							<p><strong>Solution:</strong></p>
+
+							<p><strong>(i) Probability that the student prefers soccer:</strong></p>
+							<p>
+								Probability is calculated as the ratio of favorable outcomes to the total outcomes:
+								<br>
+								<em>P(Soccer) = Number of students who prefer soccer / Total number of students</em>
+								<br>
+								<em>P(Soccer) = 20 / 50 = 0.4 or 40%</em>
+							</p>
+
+							<p><strong>(ii) Probability that the student does not prefer tennis:</strong></p>
+							<p>
+								First, calculate the number of students who do not prefer tennis:
+								<br>
+								<em>Students not preferring tennis = Total students - Students who prefer tennis</em>
+								<br>
+								<em>Students not preferring tennis = 50 - 15 = 35</em>
+								<br>
+								Now, calculate the probability:
+								<br>
+								<em>P(Not Tennis) = Students not preferring tennis / Total students</em>
+								<br>
+								<em>P(Not Tennis) = 35 / 50 = 0.7 or 70%</em>
+							</p>
+						</div>
+					  <hr>
+						
+                        <!-- This is the 2nd question -->
+
+						<div class="well well-sm">
+							<p>A shop sold the following number of ice cream cones in one week:</span><span id="MathJax-Element-10-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>240</mn><mn>000</mn><mspace width=&quot;thickmathspace&quot; /><mo stretchy=&quot;false&quot;>[</mo><mtext>riders/day</mtext><mo stretchy=&quot;false&quot;>]</mo></math>" role="presentation"><span id="MJXc-Node-28" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-29" class="mjx-mrow"><span id="MJXc-Node-30" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span><span id="MJXc-Node-31" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span><span id="MJXc-Node-32" class="mjx-mspace" style="width: 0.278em; height: 0px;"></span><span id="MJXc-Node-33" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span><span id="MJXc-Node-34" class="mjx-mtext"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span><span id="MJXc-Node-35" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.614em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn></mn><mn></mn><mspace width="thickmathspace"></mspace><mo stretchy="false"></mo><mtext></mtext><mo stretchy="false"></mo></math></span></span><script type="math/tex" id="MathJax-Element-10"></script>  <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-11-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>$</mo></mrow><mn>2</mn></math>" role="presentation"><span id="MJXc-Node-36" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-37" class="mjx-mrow"><span id="MJXc-Node-38" class="mjx-texatom"><span id="MJXc-Node-39" class="mjx-mrow"><span id="MJXc-Node-40" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.369em;"></span></span></span></span><span id="MJXc-Node-41" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo></mo></mrow><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-11"></script><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-12-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>$</mo></mrow><mn>0.10</mn></math>" role="presentation"><span id="MJXc-Node-42" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-43" class="mjx-mrow"><span id="MJXc-Node-44" class="mjx-texatom"><span id="MJXc-Node-45" class="mjx-mrow"><span id="MJXc-Node-46" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.491em; padding-bottom: 0.369em;"></span></span></span></span><span id="MJXc-Node-47" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo></mo></mrow><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-12"></script><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-13-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mn>10</mn><mn>000</mn></math>" role="presentation"><span id="MJXc-Node-48" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-49" class="mjx-mrow"><span id="MJXc-Node-50" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span><span id="MJXc-Node-51" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;"></span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn></mn><mn></mn></math></span></span><script type="math/tex" id="MathJax-Element-13"></script></p>
+							<table border="1" style="border-collapse: separate; border-spacing: 10px; border-radius: 10px; overflow: hidden;">
+							<tr>
+								<th style="padding: 10px;">flavor</th>
+								<th style="padding: 10px;">Cones Sold</th>
+							</tr>
+							<tr>
+								<td style="padding: 10px;">Vanilla</td>
+								<td style="padding: 10px;">40</td>
+							</tr>
+							<tr>
+								<td style="padding: 10px;">Chocolate</td>
+								<td style="padding: 10px;">50</td>
+							</tr>
+							<tr>
+								<td style="padding: 10px;">Strawberry</td>
+								<td style="padding: 10px;">30</td>
+							</tr>
+							<tr>
+								<td style="padding: 10px;">Mint</td>
+								<td style="padding: 10px;">20</td>
+							</tr>
+						</table>
+
+
+							<p>If a cone is chosen randomly form the sales:</p>
+								<ol type="i">
+								<li>What is the probability that it is Vanilla?</li>
+								<li>What is the probability that is Chocolate or Strawberry?</li>
+							</ol>
+					    </div>
+
+					<!-- This is the 2nd question's explanation -->
+					<span class="show-answer collapsed" style="cursor: pointer; text-decoration: underline;" 
+          				data-target="example" aria-pressed="false">Show Answer</span>
+						<div id="example 2" class="hidden-answer">
 							<p><strong>Data Table:</strong></p>
 							<p>For instance, assume the following data:</p>
 							<ul>
@@ -197,12 +273,11 @@
 								<em>P(Not Tennis) = 35 / 50 = 0.7 or 70%</em>
 							</p>
 						</div>
-					
-						<!-- This is the 1st question's answer block -->
-						
-                        <!-- This is the 2nd question -->
+					  <hr>
+					  <!-- This is the 3rd question -->	
 
-						
+
+
 				   	</div>
 					
 					<div class="col-lg-3">
