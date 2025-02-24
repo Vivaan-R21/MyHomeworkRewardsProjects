@@ -123,75 +123,85 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Simplifying Expressions with Roots</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Simplifying Radical Expressions</a></li>
 				</ol>			
 			</div>
 		</div>
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-			<h1>Simplifying Expressions with Roots</h1>
+      <h1>Simplifying Radical Expressions</h1>
 				<div class="row">
 					<div class="col-lg-9">
-						<h2>Understanding Roots</h2>
-						<p>The root of a number is a value that, when multiplied by itself a given number of times, produces the original number.</p>
-						<ul>
-							<li>The <strong>square root</strong> (\(\sqrt{x}\)) of a number \(x\) is a value that, when squared, equals \(x\).</li>
-							<li>The <strong>cube root</strong> (\(\sqrt[3]{x}\)) of \(x\) is a value that, when cubed, equals \(x\).</li>
-						</ul>
+              <h2>Understanding Radical Expressions</h2>
+              <p>A radical expression contains a square root, cube root, or any higher root. The goal is to simplify these expressions as much as possible.</p>
 
-						<h2>Simplifying Square Roots</h2>
-						<p>To simplify a square root, factor the number into perfect squares.</p>
-						<div class="example">
-							<p>\(\sqrt{36} = 6\)</p>
-							<p>\(\sqrt{50} = \sqrt{25 \times 2} = \sqrt{25} \times \sqrt{2} = 5\sqrt{2}\)</p>
-						</div>
+              <h2>Using the Product Property of Square Roots</h2>
+              <p>The product property states:</p>
+              <div class="example">
+                  <p>\(\sqrt{a \times b} = \sqrt{a} \times \sqrt{b}\), where \(a\) and \(b\) are non-negative numbers.</p>
+              </div>
+              <p>This property helps break down square roots into simpler components.</p>
 
-						<h2>Estimating and Approximating Roots</h2>
-						<p>If a number is not a perfect square, approximate it by finding the closest perfect squares.</p>
-						<table>
-							<tr>
-								<th>Square Root</th>
-								<th>Approximate Value</th>
-							</tr>
-							<tr>
-								<td>\(\sqrt{10}\)</td>
-								<td>\(\approx 3.16\)</td>
-							</tr>
-							<tr>
-								<td>\(\sqrt{75}\)</td>
-								<td>\(\approx 8.66\)</td>
-							</tr>
-						</table>
+              <h3>Examples:</h3>
+              <div class="example">
+                  <p>\(\sqrt{50} = \sqrt{25 \times 2} = \sqrt{25} \times \sqrt{2} = 5\sqrt{2}\)</p>
+                  <p>\(\sqrt{72} = \sqrt{36 \times 2} = 6\sqrt{2}\)</p>
+              </div>
 
-						<h2>Simplifying Expressions with Variables</h2>
-						<p>When simplifying square roots of variables, divide the exponent by 2.</p>
-						<div class="example">
-							<p>\(\sqrt{x^6} = x^3\)</p>
-							<p>\(\sqrt{x^5} = x^2\sqrt{x}\)</p>
-						</div>
+              <h3>Special Cases:</h3>
+              <p>When dealing with variables, apply the same rule.</p>
+              <div class="example">
+                  <p>\(\sqrt{x^6} = \sqrt{x^4 \times x^2} = \sqrt{x^4} \times \sqrt{x^2} = x^2 \times x = x^3\)</p>
+                  <p>\(\sqrt{y^5} = \sqrt{y^4 \times y} = y^2 \sqrt{y}\)</p>
+              </div>
 
-						<h2>Multiplying and Dividing Roots</h2>
-						<p>Roots can be multiplied or divided if they have the same index.</p>
-						<div class="example">
-							<p>\(\sqrt{3} \times \sqrt{12} = \sqrt{36} = 6\)</p>
-							<p>\(\frac{\sqrt{18}}{\sqrt{2}} = \sqrt{9} = 3\)</p>
-						</div>
+              <h2>Using the Quotient Property of Square Roots</h2>
+              <p>The quotient property states:</p>
+              <div class="example">
+                  <p>\(\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}\), where \(b \neq 0\).</p>
+              </div>
+              <p>This property allows division to be simplified inside a single square root.</p>
 
-						<h2>Adding and Subtracting Roots</h2>
-						<p>Like terms can be combined when adding or subtracting square roots.</p>
-						<div class="example">
-							<p>\(2\sqrt{5} + 3\sqrt{5} = 5\sqrt{5}\)</p>
-							<p>\(4\sqrt{2} - \sqrt{2} = 3\sqrt{2}\)</p>
-						</div>
+              <h3>Examples:</h3>
+              <div class="example">
+                  <p>\(\frac{\sqrt{48}}{\sqrt{3}} = \sqrt{\frac{48}{3}} = \sqrt{16} = 4\)</p>
+                  <p>\(\frac{\sqrt{50}}{\sqrt{2}} = \sqrt{\frac{50}{2}} = \sqrt{25} = 5\)</p>
+              </div>
 
-						<h2>Rationalizing the Denominator</h2>
-						<p>If a square root appears in the denominator, multiply by a suitable term to remove it.</p>
-						<div class="example">
-							<p>\(\frac{5}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}} = \frac{5\sqrt{3}}{3}\)</p>
-						</div>
+              <h2>Rationalizing the Denominator</h2>
+              <p>If a square root appears in the denominator, multiply by a suitable term to eliminate it.</p>
+              <div class="example">
+                  <p>\(\frac{5}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}} = \frac{5\sqrt{3}}{3}\)</p>
+              </div>
 
+              <h2>Comparing Simplified Expressions</h2>
+              <table>
+                  <tr>
+                      <th>Original Expression</th>
+                      <th>Simplified Expression</th>
+                  </tr>
+                  <tr>
+                      <td>\(\sqrt{98}\)</td>
+                      <td>\(7\sqrt{2}\)</td>
+                  </tr>
+                  <tr>
+                      <td>\(\sqrt{18x^4}\)</td>
+                      <td>\(3x^2\sqrt{2}\)</td>
+                  </tr>
+                  <tr>
+                      <td>\(\frac{\sqrt{32}}{\sqrt{2}}\)</td>
+                      <td>\(\sqrt{16} = 4\)</td>
+                  </tr>
+              </table>
 
+              <h2>Practice Problems</h2>
+              <ul>
+                  <li>Simplify: \(\sqrt{200}\)</li>
+                  <li>Use the product property: \(\sqrt{8} \times \sqrt{2}\)</li>
+                  <li>Apply the quotient property: \(\frac{\sqrt{144}}{\sqrt{9}}\)</li>
+                  <li>Rationalize: \(\frac{7}{\sqrt{5}}\)</li>
+              </ul>
 				    </div>
 					
 					<div class="col-lg-3">
