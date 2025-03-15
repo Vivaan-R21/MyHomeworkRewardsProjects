@@ -109,7 +109,7 @@
 	
   </head>
   
-  <>
+  <p>
   <?php 
   	include_once("header.php");
   ?>
@@ -123,77 +123,71 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Simplifying Expressions with Roots</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Simplifying Radical Expressions</a></li>
 				</ol>			
 			</div>
 		</div>
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-			<h1>Simplifying Expressions with Roots</h1>
-				<div class="row">
-					<div class="col-lg-9">
-						<h2>Understanding Roots</h2>
-						<p>The root of a number is a value that, when multiplied by itself a given number of times, produces the original number.</p>
-						<ul>
-							<li>The <strong>square root</strong> (\(\sqrt{x}\)) of a number \(x\) is a value that, when squared, equals \(x\).</li>
-							<li>The <strong>cube root</strong> (\(\sqrt[3]{x}\)) of \(x\) is a value that, when cubed, equals \(x\).</li>
-						</ul>
+          <h1>8.4 Add, Subtract, and Multiply Radical Expressions</h1>
+    <br>Radical expressions involve roots, like square roots or cube roots. This lesson will guide you on how to handle addition, subtraction, </br>and multiplication of such expressions.</p>
 
-						<h2>Simplifying Square Roots</h2>
-						<p>To simplify a square root, factor the number into perfect squares.</p>
-						<div class="example">
-							<p>\(\sqrt{36} = 6\)</p>
-							<p>\(\sqrt{50} = \sqrt{25 \times 2} = \sqrt{25} \times \sqrt{2} = 5\sqrt{2}\)</p>
-						</div>
+    <h2>Adding and Subtracting Radical Expressions</h2>
+    <p>Before you can add or subtract radicals, it is crucial to understand the following rules:</p>
+    <ol>
+        <li><strong>Like Radicals:</strong> Radicals must have the same index and the same radicand (the number inside the root) </br>to be combined.</li>
+        <li><strong>Combine Coefficients:</strong> Only the coefficients (numbers in front of the radicals) are added or subtracted.</br> The radical part remains unchanged.</li>
+        <li><strong>Simplify:</strong> If the radicals are not like terms, attempt to simplify them first.</li>
+    </ol>
+    <p><strong>Examples:</strong></p>
+    <ul>
+        <li>3√2 + 4√2 = (3 + 4)√2 = 7√2</li>
+        <li>8√5 - 5√5 = (8 - 5)√5 = 3√5</li>
+        <li>2√18 + 3√2: First, simplify √18 to 3√2, then combine: (2 × 3√2) + 3√2 = 6√2 + 3√2 = 9√2</li>
+    </ul>
+    <p>Notice that you cannot combine radicals with different radicands. For instance, √3 + √5 remains as is </br>because they are not like terms.</p>
 
-						<h2>Estimating and Approximating Roots</h2>
-						<p>If a number is not a perfect square, approximate it by finding the closest perfect squares.</p>
-						<table>
-							<tr>
-								<th>Square Root</th>
-								<th>Approximate Value</th>
-							</tr>
-							<tr>
-								<td>\(\sqrt{10}\)</td>
-								<td>\(\approx 3.16\)</td>
-							</tr>
-							<tr>
-								<td>\(\sqrt{75}\)</td>
-								<td>\(\approx 8.66\)</td>
-							</tr>
-						</table>
+    <h2>Multiplying Radical Expressions</h2>
+    <p>When multiplying radicals, use the following steps:</p>
+    <ol>
+        <li><strong>Multiply Coefficients:</strong> Multiply the numbers outside the radicals.</li>
+        <li><strong>Multiply Radicands:</strong> Multiply the numbers inside the radicals.</li>
+        <li><strong>Simplify the Result:</strong> After multiplying, simplify the radical if possible.</li>
+    </ol>
+    <p><strong>Examples:</strong></p>
+    <ul>
+        <li>(2√3)(4√5) = (2 × 4)(√3 × √5) = 8√15</li>
+        <li>(3√7)(5√7) = (3 × 5)(√7 × √7) = 15 × 7 = 105</li>
+        <li>(√6)(√14) = √(6 × 14) = √84. Simplify √84 to 2√21 (if necessary).</li>
+    </ul>
+    <p>Remember, multiplying a radical by itself eliminates the root. For example, (√5)(√5) = 5.</p>
 
-						<h2>Simplifying Expressions with Variables</h2>
-						<p>When simplifying square roots of variables, divide the exponent by 2.</p>
-						<div class="example">
-							<p>\(\sqrt{x^6} = x^3\)</p>
-							<p>\(\sqrt{x^5} = x^2\sqrt{x}\)</p>
-						</div>
+    <h2>Important Tips</h2>
+    <ul>
+        <li>Simplify radicals before adding, subtracting, or multiplying to make the process easier.</li>
+        <li>Watch out for common mistakes, like trying to combine unlike radicals or forgetting to simplify completely.</li>
+    </ul>
 
-						<h2>Multiplying and Dividing Roots</h2>
-						<p>Roots can be multiplied or divided if they have the same index.</p>
-						<div class="example">
-							<p>\(\sqrt{3} \times \sqrt{12} = \sqrt{36} = 6\)</p>
-							<p>\(\frac{\sqrt{18}}{\sqrt{2}} = \sqrt{9} = 3\)</p>
-						</div>
+    <h2>Interactive Practice</h2>
+    <p>Test your understanding with these problems:</p>
+    <ul>
+        <li>Simplify: 4√2 + 6√2</li>
+        <li>Simplify: 9√3 - 5√3</li>
+        <li>Multiply: (2√5)(3√7)</li>
+        <li>Multiply: (4√6)(√6)</li>
+    </ul>
 
-						<h2>Adding and Subtracting Roots</h2>
-						<p>Like terms can be combined when adding or subtracting square roots.</p>
-						<div class="example">
-							<p>\(2\sqrt{5} + 3\sqrt{5} = 5\sqrt{5}\)</p>
-							<p>\(4\sqrt{2} - \sqrt{2} = 3\sqrt{2}\)</p>
-						</div>
+    <h2>Challenge Yourself</h2>
+    <p>Try these more advanced problems:</p>
+    <ul>
+        <li>Simplify: 2√50 + 3√8</li>
+        <li>Multiply: (√2 + √3)(√2 - √3)</li>
+        <li>Multiply: (5√11)(2√22)</li>
+    </ul>
 
-						<h2>Rationalizing the Denominator</h2>
-						<p>If a square root appears in the denominator, multiply by a suitable term to remove it.</p>
-						<div class="example">
-							<p>\(\frac{5}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}} = \frac{5\sqrt{3}}{3}\)</p>
-						</div>
-
-
-				    </div>
-					
+    <p>With practice, you'll become confident in adding, subtracting, and multiplying radical expressions!</p>
+	</div>
 					<div class="col-lg-3">
 						<div class="panel panel-default">
 								<div class="panel-heading">
@@ -212,7 +206,9 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1&2wp.php">Problems On Lessons 1 & 2<a></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;">
+										<a href="AlgebraLesson1&2wp.php">Word Problems On Lessons 1 & 2</a>
+									</li>
 								</ul>
 							</div>
 						</div>

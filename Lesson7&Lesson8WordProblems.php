@@ -236,8 +236,8 @@
 
 					<!-- This is the 2nd question's explanation -->
 					<span class="show-answer collapsed" style="cursor: pointer; text-decoration: underline;" 
-          				data-target="example" aria-pressed="false">Show Answer</span>
-						<div id="example 2" class="hidden-answer">
+          				data-target="example2" aria-pressed="false">Show Answer</span>
+						<div id="example2" class="hidden-answer">
 							<p><strong>Data Table:</strong></p>
 							<p>For instance, assume the following data:</p>
 							<ul>

@@ -222,7 +222,9 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-									<li class="list-group-item" style="padding:0px 0px 10px 0px;"></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;">
+										<a href="AlgebraLesson1&2wp.php">Word Problems On Lessons 1 & 2</a>
+									</li>
 								</ul>
 							</div>
 						</div>
