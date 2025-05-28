@@ -130,7 +130,7 @@
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-      <h1>Simplifying Radical Expressions</h1>
+      <h1>8.2 Simplifying Radical Expressions</h1>
 				<div class="row">
 					<div class="col-lg-9">
               <h2>Understanding Radical Expressions</h2>
@@ -211,8 +211,7 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-								<!---<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="lesson7.php">Determining Probabilities Using Tree Diagrams and Tables</a></li>--->
-								<!---!<li class="list-group-item" style="padding:0px 0px 0px 0px;"><a href="continuity.php">Continuity</a></li>--->
+                <li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
 								</ul>
 							</div>
 						</div>

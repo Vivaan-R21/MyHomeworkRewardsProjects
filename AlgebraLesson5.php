@@ -123,7 +123,7 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Simplifying Radical Expressions</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Divide Radical Expressions</a></li>
 				</ol>			
 			</div>
 		</div>
@@ -132,82 +132,82 @@
 			<div class="col-lg-8 col-lg-offset-2">
          
     <div class="content">
-    <h1>8.5 Radical Expressions Lesson</h1>
-    
-    <h>Introduction to Radical Expressions</h3>
-    <p>Radical expressions include roots such as square roots and cube roots. In this lesson, you'll learn how to add, subtract, and multiply radical expressions using basic algebra techniques.</p>
-    <div class="example">
-        <strong>Key Rule:</strong><br>
-        You can combine only radicals with the same type of root (like square roots) and the same number inside the root. These are called "like radicals."
-    </div>
-    
-    <h2>Adding Radical Expressions</h2>
-    <p>To add radicals, make sure the type of root and the number inside are the same. Add only the numbers in front (coefficients).</p>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Simplify: \( 3\sqrt{2} + 5\sqrt{2} \)<br>
-        <em>Solution:</em> Add the coefficients: \( (3 + 5)\sqrt{2} = 8\sqrt{2} \)
-    </div>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Simplify: \( 2\sqrt{5} + \sqrt{5} - 4\sqrt{5} \)<br>
-        <em>Solution:</em> Combine: \( (2 + 1 - 4)\sqrt{5} = -1\sqrt{5} \)
-    </div>
-    
-    <h2>**Subtracting Radical Expressions**</h2>
-    <p>Just like adding radicals, subtract only "like radicals" by working with the coefficients.</p>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Simplify: \( 6\sqrt{3} - 4\sqrt{3} \)<br>
-        <em>Solution:</em> Subtract coefficients: \( (6 - 4)\sqrt{3} = 2\sqrt{3} \)
-    </div>
-    
-    <h2>Multiplying Radical Expressions</h2>
-    <p>When multiplying radicals, use the distributive property and the rule \( \sqrt{a} \cdot \sqrt{b} = \sqrt{ab} \). Multiply both the coefficients and the numbers inside the radicals.</p>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Multiply: \( (2\sqrt{3})(4\sqrt{5}) \)<br>
-        <em>Solution:</em> Multiply coefficients and radicals separately: \( 2 \cdot 4 \cdot \sqrt{3 \cdot 5} = 8\sqrt{15} \)
-    </div>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Multiply: \( (\sqrt{7})(\sqrt{7}) \)<br>
-        <em>Solution:</em> Multiply inside the radical: \( \sqrt{7 \cdot 7} = \sqrt{49} = 7 \)
-    </div>
-    
-    <h2>Polynomial Multiplication with Radicals</h2>
-    <p>When multiplying expressions with radicals, treat them like polynomials. Use distributive property or FOIL to simplify the expression.</p>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Multiply: \( (\sqrt{2} + 3)(\sqrt{2} - 1) \)<br>
-        <em>Solution:</em> Use FOIL: \( (\sqrt{2} \cdot \sqrt{2}) + (\sqrt{2} \cdot -1) + (3 \cdot \sqrt{2}) + (3 \cdot -1) \)<br>
-        Simplify: \( 2 - \sqrt{2} + 3\sqrt{2} - 3 = -1 + 2\sqrt{2} \)
-    </div>
-    <div class="example">
-        <strong>Example:</strong><br>
-        Multiply: \( (2 + \sqrt{3})(2 - \sqrt{3}) \)<br>
-        <em>Solution:</em> Use FOIL: \( (2 \cdot 2) + (2 \cdot -\sqrt{3}) + (\sqrt{3} \cdot 2) + (\sqrt{3} \cdot -\sqrt{3}) \)<br>
-        Simplify: \( 4 - 2\sqrt{3} + 2\sqrt{3} - 3 = 1 \)
-    </div>
-    
-    <h2>Practice Problems</h2>
-    <p>Try these exercises to strengthen your skills:</p>
-    <ul>
-        <li>Simplify \( 4\sqrt{6} + 2\sqrt{6} - \sqrt{6} \).</li>
-        <li>Multiply \( (\sqrt{5} + 3)(\sqrt{5} - 2) \).</li>
-        <li>Multiply \( (1 + 2\sqrt{7})(1 - \sqrt{7}) \).</li>
-        <li>Simplify \( (2\sqrt{3} + 1)^2 \).</li>
-    </ul>
-    
-    <h2>Summary</h2>
-    <p>Here's what you've learned in this lesson:</p>
-    <ul>
-        <li>How to add and subtract radical expressions by combining like terms.</li>
-        <li>How to multiply radicals by applying distributive property and \( \sqrt{a} \cdot \sqrt{b} = \sqrt{ab} \).</li>
-        <li>How to use polynomial multiplication techniques to simplify radical expressions.</li>
-    </ul>
-    <p>Remember to practice consistently to master these concepts!</p>
-	</div>
+        <h1>8.5 Divide Radical Expressions</h1>
+        
+        <h>Introduction to Radical Expressions</h3>
+        <p>Radical expressions include roots such as square roots and cube roots. In this lesson, you'll learn how to add, subtract, and multiply radical expressions using basic algebra techniques.</p>
+        <div class="example">
+            <strong>Key Rule:</strong><br>
+            You can combine only radicals with the same type of root (like square roots) and the same number inside the root. These are called "like radicals."
+        </div>
+        
+        <h2>Adding Radical Expressions</h2>
+        <p>To add radicals, make sure the type of root and the number inside are the same. Add only the numbers in front (coefficients).</p>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Simplify: \( 3\sqrt{2} + 5\sqrt{2} \)<br>
+            <em>Solution:</em> Add the coefficients: \( (3 + 5)\sqrt{2} = 8\sqrt{2} \)
+        </div>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Simplify: \( 2\sqrt{5} + \sqrt{5} - 4\sqrt{5} \)<br>
+            <em>Solution:</em> Combine: \( (2 + 1 - 4)\sqrt{5} = -1\sqrt{5} \)
+        </div>
+        
+        <h2>**Subtracting Radical Expressions**</h2>
+        <p>Just like adding radicals, subtract only "like radicals" by working with the coefficients.</p>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Simplify: \( 6\sqrt{3} - 4\sqrt{3} \)<br>
+            <em>Solution:</em> Subtract coefficients: \( (6 - 4)\sqrt{3} = 2\sqrt{3} \)
+        </div>
+        
+        <h2>Multiplying Radical Expressions</h2>
+        <p>When multiplying radicals, use the distributive property and the rule \( \sqrt{a} \cdot \sqrt{b} = \sqrt{ab} \). Multiply both the coefficients and the numbers inside the radicals.</p>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Multiply: \( (2\sqrt{3})(4\sqrt{5}) \)<br>
+            <em>Solution:</em> Multiply coefficients and radicals separately: \( 2 \cdot 4 \cdot \sqrt{3 \cdot 5} = 8\sqrt{15} \)
+        </div>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Multiply: \( (\sqrt{7})(\sqrt{7}) \)<br>
+            <em>Solution:</em> Multiply inside the radical: \( \sqrt{7 \cdot 7} = \sqrt{49} = 7 \)
+        </div>
+        
+        <h2>Polynomial Multiplication with Radicals</h2>
+        <p>When multiplying expressions with radicals, treat them like polynomials. Use distributive property or FOIL to simplify the expression.</p>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Multiply: \( (\sqrt{2} + 3)(\sqrt{2} - 1) \)<br>
+            <em>Solution:</em> Use FOIL: \( (\sqrt{2} \cdot \sqrt{2}) + (\sqrt{2} \cdot -1) + (3 \cdot \sqrt{2}) + (3 \cdot -1) \)<br>
+            Simplify: \( 2 - \sqrt{2} + 3\sqrt{2} - 3 = -1 + 2\sqrt{2} \)
+        </div>
+        <div class="example">
+            <strong>Example:</strong><br>
+            Multiply: \( (2 + \sqrt{3})(2 - \sqrt{3}) \)<br>
+            <em>Solution:</em> Use FOIL: \( (2 \cdot 2) + (2 \cdot -\sqrt{3}) + (\sqrt{3} \cdot 2) + (\sqrt{3} \cdot -\sqrt{3}) \)<br>
+            Simplify: \( 4 - 2\sqrt{3} + 2\sqrt{3} - 3 = 1 \)
+        </div>
+        
+        <h2>Practice Problems</h2>
+        <p>Try these exercises to strengthen your skills:</p>
+        <ul>
+            <li>Simplify \( 4\sqrt{6} + 2\sqrt{6} - \sqrt{6} \).</li>
+            <li>Multiply \( (\sqrt{5} + 3)(\sqrt{5} - 2) \).</li>
+            <li>Multiply \( (1 + 2\sqrt{7})(1 - \sqrt{7}) \).</li>
+            <li>Simplify \( (2\sqrt{3} + 1)^2 \).</li>
+        </ul>
+        
+        <h2>Summary</h2>
+        <p>Here's what you've learned in this lesson:</p>
+        <ul>
+            <li>How to add and subtract radical expressions by combining like terms.</li>
+            <li>How to multiply radicals by applying distributive property and \( \sqrt{a} \cdot \sqrt{b} = \sqrt{ab} \).</li>
+            <li>How to use polynomial multiplication techniques to simplify radical expressions.</li>
+        </ul>
+        <p>Remember to practice consistently to master these concepts!</p>
+      </div>
 					<div class="col-lg-3">
 						<div class="panel panel-default">
 								<div class="panel-heading">
@@ -215,8 +215,10 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-								<!---<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="lesson7.php">Determining Probabilities Using Tree Diagrams and Tables</a></li>--->
-								<!---!<li class="list-group-item" style="padding:0px 0px 0px 0px;"><a href="continuity.php">Continuity</a></li>--->
+                <li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson2cont.php">8.2 Simplifying Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson3cont.php">8.3 Simplify Rational Exponents</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson4.php">8.4 Add, Subtract, and Multiply Radical Expressions</a></li>
 								</ul>
 							</div>
 						</div>

@@ -123,71 +123,91 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Add, Subtract, and Multiply Radical Expressions</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Divide Radical Expressions cont.</a></li>
 				</ol>			
 			</div>
 		</div>
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-          <h1>8.4 Add, Subtract, and Multiply Radical Expressions</h1>
-    <br>Radical expressions involve roots, like square roots or cube roots. This lesson will guide you on how to handle addition, subtraction, </br>and multiplication of such expressions.</p>
+         
+    <div class="content">
+    <h1></h1>
+    
+    <h1>8.5 Divide Radical Expressions cont.</h1>
 
-    <h2>Adding and Subtracting Radical Expressions</h2>
-    <p>Before you can add or subtract radicals, it is crucial to understand the following rules:</p>
-    <ol>
-        <li><strong>Like Radicals:</strong> Radicals must have the same index and the same radicand (the number inside the root) </br>to be combined.</li>
-        <li><strong>Combine Coefficients:</strong> Only the coefficients (numbers in front of the radicals) are added or subtracted.</br> The radical part remains unchanged.</li>
-        <li><strong>Simplify:</strong> If the radicals are not like terms, attempt to simplify them first.</li>
-    </ol>
-    <p><strong>Examples:</strong></p>
-    <ul>
-        <li>3√2 + 4√2 = (3 + 4)√2 = 7√2</li>
-        <li>8√5 - 5√5 = (8 - 5)√5 = 3√5</li>
-        <li>2√18 + 3√2: First, simplify √18 to 3√2, then combine: (2 × 3√2) + 3√2 = 6√2 + 3√2 = 9√2</li>
-    </ul>
-    <p>Notice that you cannot combine radicals with different radicands. For instance, √3 + √5 remains as is </br>because they are not like terms.</p>
 
-    <h2>Multiplying Radical Expressions</h2>
-    <p>When multiplying radicals, use the following steps:</p>
-    <ol>
-        <li><strong>Multiply Coefficients:</strong> Multiply the numbers outside the radicals.</li>
-        <li><strong>Multiply Radicands:</strong> Multiply the numbers inside the radicals.</li>
-        <li><strong>Simplify the Result:</strong> After multiplying, simplify the radical if possible.</li>
-    </ol>
-    <p><strong>Examples:</strong></p>
-    <ul>
-        <li>(2√3)(4√5) = (2 × 4)(√3 × √5) = 8√15</li>
-        <li>(3√7)(5√7) = (3 × 5)(√7 × √7) = 15 × 7 = 105</li>
-        <li>(√6)(√14) = √(6 × 14) = √84. Simplify √84 to 2√21 (if necessary).</li>
-    </ul>
-    <p>Remember, multiplying a radical by itself eliminates the root. For example, (√5)(√5) = 5.</p>
+		<p>When we divide radical expressions, such as square roots or cube roots, we need to simplify the expression by dividing the numbers or variables that are inside the radicals. Radical expressions often involve square roots (√), cube roots (∛), or other roots. The main idea is to simplify the numbers or variables under the radical so that the expression becomes easier to work with.</p>
 
-    <h2>Important Tips</h2>
-    <ul>
-        <li>Simplify radicals before adding, subtracting, or multiplying to make the process easier.</li>
-        <li>Watch out for common mistakes, like trying to combine unlike radicals or forgetting to simplify completely.</li>
-    </ul>
+		<p>For example, consider the following expression:</p>
+		<p><strong>Example 1:</strong> <em>Divide the square roots: √8 / √2</em></p>
 
-    <h2>Interactive Practice</h2>
-    <p>Test your understanding with these problems:</p>
-    <ul>
-        <li>Simplify: 4√2 + 6√2</li>
-        <li>Simplify: 9√3 - 5√3</li>
-        <li>Multiply: (2√5)(3√7)</li>
-        <li>Multiply: (4√6)(√6)</li>
-    </ul>
+		<p>Step 1: We can simplify the expression by dividing the numbers inside the radicals. In this case, we divide 8 by 2:</p>
 
-    <h2>Challenge Yourself</h2>
-    <p>Try these more advanced problems:</p>
-    <ul>
-        <li>Simplify: 2√50 + 3√8</li>
-        <li>Multiply: (√2 + √3)(√2 - √3)</li>
-        <li>Multiply: (5√11)(2√22)</li>
-    </ul>
+		<p>√8 / √2 = √(8 / 2) = √4</p>
 
-    <p>With practice, you'll become confident in adding, subtracting, and multiplying radical expressions!</p>
-	</div>
+		<p>Step 2: Now that we have √4, we know that the square root of 4 is 2, because 2 times 2 equals 4:</p>
+
+		<p>√4 = 2</p>
+
+		<p>Therefore, the simplified answer is:</p>
+
+		<p><strong>Result:</strong> 2</p>
+
+		<p>This shows that when you divide square roots, you divide the numbers under the radical just as you would divide regular numbers. Then, simplify the radical expression to get the final result.</p>
+
+		<h2>- Rationalize a One-Term Denominator</h2>
+
+		<p>Rationalizing the denominator means removing any radical from the denominator of a fraction. A radical in the denominator can make the expression look complicated, and rationalizing it helps to simplify the fraction. When the denominator is a single term with a radical, we multiply both the numerator and the denominator by that same radical to "get rid" of the radical in the denominator.</p>
+
+		<p>For example, consider the following fraction:</p>
+
+		<p><strong>Example 2:</strong> <em>Rationalize the denominator of 1 / √3</em></p>
+
+		<p>Step 1: The denominator contains a square root, so we need to multiply both the numerator and the denominator by √3. This is because multiplying by √3 in the denominator will cancel out the square root:</p>
+
+		<p>1 / √3 × √3 / √3 = √3 / (√3 × √3)</p>
+
+		<p>Step 2: Now, the denominator becomes the square root of 3 multiplied by itself, which equals 3. This means:</p>
+
+		<p>√3 / 3</p>
+
+		<p>So, the rationalized version of the fraction is:</p>
+
+		<p><strong>Result:</strong> √3 / 3</p>
+
+		<p>This process is known as rationalizing a one-term denominator, and it helps us express the fraction in a simpler, more readable form without any radicals in the denominator.</p>
+
+		<h2>- Rationalize a Two-Term Denominator</h2>
+
+		<p>When the denominator contains two terms with a radical, we still need to remove the radical, but we have to use a different method. This method involves multiplying by the conjugate of the denominator. The conjugate is the same expression but with the opposite sign between the terms. By multiplying by the conjugate, we eliminate the radical from the denominator.</p>
+
+		<p>The conjugate of an expression like (a + b) is (a - b), and vice versa. This works because multiplying a binomial by its conjugate results in the difference of squares, which removes the radicals.</p>
+
+		<p>For example, consider the following fraction:</p>
+
+		<p><strong>Example 3:</strong> <em>Rationalize the denominator of 1 / (√2 + 1)</em></p>
+
+		<p>Step 1: To rationalize the denominator, we multiply both the numerator and the denominator by the conjugate of (√2 + 1). The conjugate of (√2 + 1) is (√2 - 1). This step eliminates the radical in the denominator:</p>
+
+		<p>1 / (√2 + 1) × (√2 - 1) / (√2 - 1) = (√2 - 1) / ((√2)² - 1²)</p>
+
+		<p>Step 2: Now, we simplify the denominator. The expression (√2)² equals 2, and 1² equals 1, so we have:</p>
+
+		<p>(√2 - 1) / (2 - 1) = (√2 - 1) / 1</p>
+
+		<p>Step 3: Finally, the fraction simplifies to:</p>
+
+		<p>√2 - 1</p>
+
+		<p><strong>Result:</strong> √2 - 1</p>
+
+		<p>This is the rationalized form of the fraction, and the denominator no longer contains any radicals. By multiplying by the conjugate, we were able to remove the radical from the denominator.</p>
+
+		<h2>Conclusion</h2>
+
+		<p>In summary, dividing radical expressions involves simplifying the radicals by dividing the values under the radicals. Rationalizing a denominator means removing the radical from the denominator. For a one-term denominator, we multiply both the numerator and denominator by the radical in the denominator. For a two-term denominator, we use the conjugate to eliminate the radical. These techniques are useful in simplifying radical expressions and making them easier to work with.</p>
+            </div>
 					<div class="col-lg-3">
 						<div class="panel panel-default">
 								<div class="panel-heading">
@@ -195,9 +215,11 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-                <li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson2cont.php">8.2 Simplifying Radical Expressions</a></li>
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson3cont.php">8.3 Simplify Rational Exponents</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson4.php">8.4 Add, Subtract, and Multiply Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5.php">8.5 Divide Radical Expressions</a></li>
 								</ul>
 							</div>
 						</div>

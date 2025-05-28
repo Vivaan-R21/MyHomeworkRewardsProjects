@@ -123,75 +123,109 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Simplifying Expressions with Roots</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Use Radicals in Functions</a></li>
 				</ol>			
 			</div>
 		</div>
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-			<h1>8. 1 Simplifying Expressions with Roots</h1>
+			<h1>8.7 Use Radicals in Functions</h1>
 				<div class="row">
 					<div class="col-lg-9">
-						<h2>Understanding Roots</h2>
-						<p>The root of a number is a value that, when multiplied by itself a given number of times, produces the original number.</p>
-						<ul>
-							<li>The <strong>square root</strong> (\(\sqrt{x}\)) of a number \(x\) is a value that, when squared, equals \(x\).</li>
-							<li>The <strong>cube root</strong> (\(\sqrt[3]{x}\)) of \(x\) is a value that, when cubed, equals \(x\).</li>
-						</ul>
+						<p>Radicals in functions involve using root operations like square roots, cube roots, etc., in a mathematical expression.</p>
+							<p>Example of a square root function:</p>
+							<math>
+							<mrow>
+								<mi>f</mi>
+								<mo>(</mo>
+								<mi>x</mi>
+								<mo>)</mo>
+								<mo>=</mo>
+								<msqrt>
+								<mi>x</mi>
+								</msqrt>
+							</mrow>
+							</math>
+							<p>This represents the square root of x.</p>
 
-						<h2>Simplifying Square Roots</h2>
-						<p>To simplify a square root, factor the number into perfect squares.</p>
-						<div class="example">
-							<p>\(\sqrt{36} = 6\)</p>
-							<p>\(\sqrt{50} = \sqrt{25 \times 2} = \sqrt{25} \times \sqrt{2} = 5\sqrt{2}\)</p>
+							<p>Now let's evaluate this radical function with x = 4:</p>
+							<math>
+							<mrow>
+								<mi>f</mi>
+								<mo>(</mo>
+								<mn>4</mn>
+								<mo>)</mo>
+								<mo>=</mo>
+								<msqrt>
+								<mn>4</mn>
+								</msqrt>
+							</mrow>
+							</math>
+							<p>Since √4 = 2, we get:</p>
+							<math>
+							<mrow>
+								<mi>f</mi>
+								<mo>(</mo>
+								<mn>4</mn>
+								<mo>)</mo>
+								<mo>=</mo>
+								<mn>2</mn>
+							</mrow>
+							</math>
+
+							<p>In this example, we evaluated the square root of 4 to get the result of 2.</p>
+
+							<p>You can also use higher roots, like the cube root, represented using a radical with a fractional exponent:</p>
+							<math>
+							<mrow>
+								<mi>f</mi>
+								<mo>(</mo>
+								<mi>x</mi>
+								<mo>)</mo>
+								<mo>=</mo>
+								<msup>
+								<mi>x</mi>
+								<mfrac>
+									<mn>1</mn>
+									<mn>3</mn>
+								</mfrac>
+								</msup>
+							</mrow>
+							</math>
+							<p>This represents the cube root of x.</p>
+
+							<p>For example, evaluating the cube root of 27:</p>
+							<math>
+							<mrow>
+								<mi>f</mi>
+								<mo>(</mo>
+								<mn>27</mn>
+								<mo>)</mo>
+								<mo>=</mo>
+								<msup>
+								<mn>27</mn>
+								<mfrac>
+									<mn>1</mn>
+									<mn>3</mn>
+								</mfrac>
+								</msup>
+							</mrow>
+							</math>
+							<p>Since the cube root of 27 is 3, we get:</p>
+							<math>
+							<mrow>
+								<mi>f</mi>
+								<mo>(</mo>
+								<mn>27</mn>
+								<mo>)</mo>
+								<mo>=</mo>
+								<mn>3</mn>
+							</mrow>
+							</math>
+                            
 						</div>
-
-						<h2>Estimating and Approximating Roots</h2>
-						<p>If a number is not a perfect square, approximate it by finding the closest perfect squares.</p>
-						<table>
-							<tr>
-								<th>Square Root</th>
-								<th>Approximate Value</th>
-							</tr>
-							<tr>
-								<td>\(\sqrt{10}\)</td>
-								<td>\(\approx 3.16\)</td>
-							</tr>
-							<tr>
-								<td>\(\sqrt{75}\)</td>
-								<td>\(\approx 8.66\)</td>
-							</tr>
-						</table>
-
-						<h2>Simplifying Expressions with Variables</h2>
-						<p>When simplifying square roots of variables, divide the exponent by 2.</p>
-						<div class="example">
-							<p>\(\sqrt{x^6} = x^3\)</p>
-							<p>\(\sqrt{x^5} = x^2\sqrt{x}\)</p>
-						</div>
-
-						<h2>Multiplying and Dividing Roots</h2>
-						<p>Roots can be multiplied or divided if they have the same index.</p>
-						<div class="example">
-							<p>\(\sqrt{3} \times \sqrt{12} = \sqrt{36} = 6\)</p>
-							<p>\(\frac{\sqrt{18}}{\sqrt{2}} = \sqrt{9} = 3\)</p>
-						</div>
-
-						<h2>Adding and Subtracting Roots</h2>
-						<p>Like terms can be combined when adding or subtracting square roots.</p>
-						<div class="example">
-							<p>\(2\sqrt{5} + 3\sqrt{5} = 5\sqrt{5}\)</p>
-							<p>\(4\sqrt{2} - \sqrt{2} = 3\sqrt{2}\)</p>
-						</div>
-
-						<h2>Rationalizing the Denominator</h2>
-						<p>If a square root appears in the denominator, multiply by a suitable term to remove it.</p>
-						<div class="example">
-							<p>\(\frac{5}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}} = \frac{5\sqrt{3}}{3}\)</p>
-						</div>
-
-
+                         <hr>
 				    </div>
 					
 					<div class="col-lg-3">
@@ -201,8 +235,14 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-								<!---<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="lesson7.php">Determining Probabilities Using Tree Diagrams and Tables</a></li>--->
-								<!---!<li class="list-group-item" style="padding:0px 0px 0px 0px;"><a href="continuity.php">Continuity</a></li>--->
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson2cont.php">8.2 Simplifying Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson3cont.php">8.3 Simplify Rational Exponents</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson4.php">8.4 Add, Subtract, and Multiply Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5.php">8.5 Divide Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5cont.php">8.5 Divide Radical Expressions cont.</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson6.php">8.6 Solve Radical Equations</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="Algebralesson6cont.php">8.6 Solve Radical Equations cont.</a></li>
 								</ul>
 							</div>
 						</div>
@@ -212,7 +252,9 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1&2wp.php">Problems On Lessons 1 & 2<a></li>
+								<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1&2wp.php">Problems On Lessons 1 & 2<a></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5wp.php">Problems On Lesson 5<a></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson6wp.php">Problems on Lesson 6<a></li>
 								</ul>
 							</div>
 						</div>

@@ -123,71 +123,82 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Add, Subtract, and Multiply Radical Expressions</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Solve Radical Equations cont.</a></li>
 				</ol>			
 			</div>
 		</div>
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-          <h1>8.4 Add, Subtract, and Multiply Radical Expressions</h1>
-    <br>Radical expressions involve roots, like square roots or cube roots. This lesson will guide you on how to handle addition, subtraction, </br>and multiplication of such expressions.</p>
+         
+    <div class="content">
+    <h1>8.6 Solve Radical Equations cont.</h1>
+    
+				<p>Radical equations are equations that involve a variable inside a radical (a square root, cube root, etc.). To solve radical equations, we often use algebraic techniques like squaring both sides, isolating the radical, and simplifying expressions. Understanding how to manipulate radical expressions is important not only in mathematics but also in various real-world applications such as physics, engineering, and more.</p>
 
-    <h2>Adding and Subtracting Radical Expressions</h2>
-    <p>Before you can add or subtract radicals, it is crucial to understand the following rules:</p>
-    <ol>
-        <li><strong>Like Radicals:</strong> Radicals must have the same index and the same radicand (the number inside the root) </br>to be combined.</li>
-        <li><strong>Combine Coefficients:</strong> Only the coefficients (numbers in front of the radicals) are added or subtracted.</br> The radical part remains unchanged.</li>
-        <li><strong>Simplify:</strong> If the radicals are not like terms, attempt to simplify them first.</li>
-    </ol>
-    <p><strong>Examples:</strong></p>
-    <ul>
-        <li>3√2 + 4√2 = (3 + 4)√2 = 7√2</li>
-        <li>8√5 - 5√5 = (8 - 5)√5 = 3√5</li>
-        <li>2√18 + 3√2: First, simplify √18 to 3√2, then combine: (2 × 3√2) + 3√2 = 6√2 + 3√2 = 9√2</li>
-    </ul>
-    <p>Notice that you cannot combine radicals with different radicands. For instance, √3 + √5 remains as is </br>because they are not like terms.</p>
+				<hr>
 
-    <h2>Multiplying Radical Expressions</h2>
-    <p>When multiplying radicals, use the following steps:</p>
-    <ol>
-        <li><strong>Multiply Coefficients:</strong> Multiply the numbers outside the radicals.</li>
-        <li><strong>Multiply Radicands:</strong> Multiply the numbers inside the radicals.</li>
-        <li><strong>Simplify the Result:</strong> After multiplying, simplify the radical if possible.</li>
-    </ol>
-    <p><strong>Examples:</strong></p>
-    <ul>
-        <li>(2√3)(4√5) = (2 × 4)(√3 × √5) = 8√15</li>
-        <li>(3√7)(5√7) = (3 × 5)(√7 × √7) = 15 × 7 = 105</li>
-        <li>(√6)(√14) = √(6 × 14) = √84. Simplify √84 to 2√21 (if necessary).</li>
-    </ul>
-    <p>Remember, multiplying a radical by itself eliminates the root. For example, (√5)(√5) = 5.</p>
+				<h3>Key Steps in Solving Radical Equations</h3>
 
-    <h2>Important Tips</h2>
-    <ul>
-        <li>Simplify radicals before adding, subtracting, or multiplying to make the process easier.</li>
-        <li>Watch out for common mistakes, like trying to combine unlike radicals or forgetting to simplify completely.</li>
-    </ul>
+				<p>When solving radical equations, follow these general steps:</p>
 
-    <h2>Interactive Practice</h2>
-    <p>Test your understanding with these problems:</p>
-    <ul>
-        <li>Simplify: 4√2 + 6√2</li>
-        <li>Simplify: 9√3 - 5√3</li>
-        <li>Multiply: (2√5)(3√7)</li>
-        <li>Multiply: (4√6)(√6)</li>
-    </ul>
+				<ol>
+					<li><strong>Isolate the radical expression:</strong> To begin solving, try to isolate the radical (the square root, cube root, etc.) on one side of the equation. This step may require algebraic manipulation like adding, subtracting, or factoring.</li>
+					<li><strong>Square (or cube) both sides:</strong> Once the radical is isolated, square both sides of the equation to eliminate the square root. If there is a cube root or higher-order radical, cube both sides. This will help eliminate the radical and simplify the equation.</li>
+					<li><strong>Simplify:</strong> After squaring or cubing both sides, simplify the equation. This may involve combining like terms, distributing, or factoring.</li>
+					<li><strong>Check for extraneous solutions:</strong> Squaring both sides of an equation can sometimes introduce extraneous solutions—solutions that don’t satisfy the original equation. It’s important to plug the solutions back into the original equation to verify that they are valid.</li>
+				</ol>
 
-    <h2>Challenge Yourself</h2>
-    <p>Try these more advanced problems:</p>
-    <ul>
-        <li>Simplify: 2√50 + 3√8</li>
-        <li>Multiply: (√2 + √3)(√2 - √3)</li>
-        <li>Multiply: (5√11)(2√22)</li>
-    </ul>
+				<hr>
 
-    <p>With practice, you'll become confident in adding, subtracting, and multiplying radical expressions!</p>
-	</div>
+				<h3>Example: Solving a Simple Radical Equation</h3>
+
+				<p>Consider the equation:</p>
+				<p><em>√(x + 5) = 3</em></p>
+
+				<p><strong>Step 1:</strong> Isolate the radical expression:</p>
+				<p>The radical expression is already isolated, as it is the square root of <em>(x + 5)</em>.</p>
+
+				<p><strong>Step 2:</strong> Square both sides:</p>
+				<p>To eliminate the square root, square both sides of the equation:</p>
+				<p><em>(√(x + 5))² = 3²</em></p>
+				<p><em>x + 5 = 9</em></p>
+
+				<p><strong>Step 3:</strong> Simplify:</p>
+				<p>Now, solve for <em>x</em> by subtracting 5 from both sides:</p>
+				<p><em>x = 9 - 5</em></p>
+				<p><em>x = 4</em></p>
+
+				<p><strong>Step 4:</strong> Check for extraneous solutions:</p>
+				<p>Plug <em>x = 4</em> back into the original equation:</p>
+				<p><em>√(4 + 5) = 3</em></p>
+				<p><em>√9 = 3</em></p>
+				<p><em>3 = 3</em></p>
+				<p>This is true, so <em>x = 4</em> is a valid solution.</p>
+
+				<hr>
+
+				<h3>Solving Radical Equations with Two Radicals</h3>
+
+				<p>In some cases, an equation may involve two radical expressions. To solve these equations, you generally need to isolate one radical, square both sides, and then isolate the second radical. Continue this process until you have an equation that no longer involves radicals, and then solve for the variable.</p>
+
+				<p>Here is an outline of the steps:</p>
+
+				<ol>
+					<li><strong>Isolate one radical:</strong> Start by isolating one of the radicals on one side of the equation.</li>
+					<li><strong>Square both sides:</strong> Square both sides of the equation to eliminate the radical.</li>
+					<li><strong>Isolate the second radical:</strong> If necessary, isolate the second radical expression.</li>
+					<li><strong>Square both sides again:</strong> Repeat the squaring process to remove the second radical.</li>
+					<li><strong>Simplify:</strong> After the radicals are removed, solve the resulting equation algebraically.</li>
+					<li><strong>Check for extraneous solutions:</strong> As with single radical equations, check for extraneous solutions to ensure the solution is valid.</li>
+				</ol>
+
+				<hr>
+
+				<h3>Conclusion</h3>
+
+				<p>Solving radical equations requires a systematic approach of isolating the radical expression, squaring both sides, and simplifying the equation. While working with equations that involve more than one radical, it’s important to isolate and eliminate each radical step by step. Always remember to check for extraneous solutions at the end to ensure that the solutions you find are valid in the original equation.</p>
+					</div>
 					<div class="col-lg-3">
 						<div class="panel panel-default">
 								<div class="panel-heading">
@@ -195,9 +206,13 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-                <li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson2cont.php">8.2 Simplifying Radical Expressions</a></li>
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson3cont.php">8.3 Simplify Rational Exponents</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson4.php">8.4 Add, Subtract, and Multiply Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5.php">8.5 Divide Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5cont.php">8.5 Divide Radical Expressions cont.</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson6.php">8.6 Solve Radical Equations</a></li>
 								</ul>
 							</div>
 						</div>
@@ -208,7 +223,8 @@
 							<div class="panel-body">
 								<ul class="list-group">
 									<li class="list-group-item" style="padding:0px 0px 10px 0px;">
-										<a href="AlgebraLesson1&2wp.php">Word Problems On Lessons 1 & 2</a>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1&2wp.php">Problems On Lessons 1 & 2<a></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5wp.php">Problems On Lesson 5<a></li>
 									</li>
 								</ul>
 							</div>

@@ -109,7 +109,7 @@
 	
   </head>
   
-  <p>
+  <>
   <?php 
   	include_once("header.php");
   ?>
@@ -123,71 +123,67 @@
 					<li><a href="https://app.myhomeworkrewards.com/lessons/lessons_main.php">Lessons</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/gr8_main.php">Algebra 1</a></li>
 					<li><a href="https://app.myhomeworkrewards.com/lessons/Gr8/Math/gr8_math_main.php">Math</a></li>
-					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Add, Subtract, and Multiply Radical Expressions</a></li>
+					<li><a href="/lessons/Gr12/Math/Calculus/ProbabilitiesWithTablesAndDiagrams.php">Use the Complex Number System</a></li>
 				</ol>			
 			</div>
 		</div>
 		
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-          <h1>8.4 Add, Subtract, and Multiply Radical Expressions</h1>
-    <br>Radical expressions involve roots, like square roots or cube roots. This lesson will guide you on how to handle addition, subtraction, </br>and multiplication of such expressions.</p>
+			<h1>8.8 Use the Complex Number System</h1>
+				<div class="row">
+					<div class="col-lg-9">
+					<p>In mathematics, we often deal with square roots. For example, the square root of 9 is 3, because 3 × 3 = 9. But what if we try to take the square root of a negative number, like -9?</p>
 
-    <h2>Adding and Subtracting Radical Expressions</h2>
-    <p>Before you can add or subtract radicals, it is crucial to understand the following rules:</p>
-    <ol>
-        <li><strong>Like Radicals:</strong> Radicals must have the same index and the same radicand (the number inside the root) </br>to be combined.</li>
-        <li><strong>Combine Coefficients:</strong> Only the coefficients (numbers in front of the radicals) are added or subtracted.</br> The radical part remains unchanged.</li>
-        <li><strong>Simplify:</strong> If the radicals are not like terms, attempt to simplify them first.</li>
-    </ol>
-    <p><strong>Examples:</strong></p>
-    <ul>
-        <li>3√2 + 4√2 = (3 + 4)√2 = 7√2</li>
-        <li>8√5 - 5√5 = (8 - 5)√5 = 3√5</li>
-        <li>2√18 + 3√2: First, simplify √18 to 3√2, then combine: (2 × 3√2) + 3√2 = 6√2 + 3√2 = 9√2</li>
-    </ul>
-    <p>Notice that you cannot combine radicals with different radicands. For instance, √3 + √5 remains as is </br>because they are not like terms.</p>
+						<p>In the set of real numbers, there is no number that you can square to get a negative result. This is because a positive number times itself is positive, and a negative number times itself is also positive. So, in real numbers, √(-9) has no solution.</p>
 
-    <h2>Multiplying Radical Expressions</h2>
-    <p>When multiplying radicals, use the following steps:</p>
-    <ol>
-        <li><strong>Multiply Coefficients:</strong> Multiply the numbers outside the radicals.</li>
-        <li><strong>Multiply Radicands:</strong> Multiply the numbers inside the radicals.</li>
-        <li><strong>Simplify the Result:</strong> After multiplying, simplify the radical if possible.</li>
-    </ol>
-    <p><strong>Examples:</strong></p>
-    <ul>
-        <li>(2√3)(4√5) = (2 × 4)(√3 × √5) = 8√15</li>
-        <li>(3√7)(5√7) = (3 × 5)(√7 × √7) = 15 × 7 = 105</li>
-        <li>(√6)(√14) = √(6 × 14) = √84. Simplify √84 to 2√21 (if necessary).</li>
-    </ul>
-    <p>Remember, multiplying a radical by itself eliminates the root. For example, (√5)(√5) = 5.</p>
+						<p>To solve this problem, mathematicians created a new number system: the complex number system. The key idea is to define a new unit called the imaginary unit, written as <strong>i</strong>. This special number is defined as the square root of -1:</p>
 
-    <h2>Important Tips</h2>
-    <ul>
-        <li>Simplify radicals before adding, subtracting, or multiplying to make the process easier.</li>
-        <li>Watch out for common mistakes, like trying to combine unlike radicals or forgetting to simplify completely.</li>
-    </ul>
+						<p><strong>i = √(-1)</strong></p>
 
-    <h2>Interactive Practice</h2>
-    <p>Test your understanding with these problems:</p>
-    <ul>
-        <li>Simplify: 4√2 + 6√2</li>
-        <li>Simplify: 9√3 - 5√3</li>
-        <li>Multiply: (2√5)(3√7)</li>
-        <li>Multiply: (4√6)(√6)</li>
-    </ul>
+						<p>Once we have this definition, we can work with square roots of negative numbers easily. For example:</p>
 
-    <h2>Challenge Yourself</h2>
-    <p>Try these more advanced problems:</p>
-    <ul>
-        <li>Simplify: 2√50 + 3√8</li>
-        <li>Multiply: (√2 + √3)(√2 - √3)</li>
-        <li>Multiply: (5√11)(2√22)</li>
-    </ul>
+						<p>√(-9) = √(9 × -1) = √9 × √(-1) = 3i</p>
 
-    <p>With practice, you'll become confident in adding, subtracting, and multiplying radical expressions!</p>
-	</div>
+						<p>This tells us that √(-9) is equal to 3i. Here are some more examples:</p>
+
+						<p>√(-16) = 4i</p>
+						<p>√(-100) = 10i</p>
+						<p>√(-1) = i</p>
+
+						<p>These numbers are called <strong>imaginary numbers</strong>, because they are based on the imaginary unit <strong>i</strong>. But imaginary numbers are not useless or fake—they are actually very useful in advanced math, physics, and engineering.</p>
+
+						<p>Now, we can also combine real numbers and imaginary numbers to form what are called <strong>complex numbers</strong>. A complex number is written in the form:</p>
+
+						<p><strong>a + bi</strong></p>
+
+						<p>Here, <strong>a</strong> is the real part, and <strong>bi</strong> is the imaginary part. Some examples of complex numbers are:</p>
+
+						<p>3 + 2i, -5 + 7i, 0 - 6i, and even just 4 (which is really 4 + 0i)</p>
+
+						<p>Let’s look at a few more square roots of negative numbers and write them in complex form:</p>
+
+						<p>√(-49) = 7i → So a complex number could be 0 + 7i</p>
+						<p>√(-121) = 11i → You might see this used in equations involving oscillations or waveforms</p>
+
+						<p>These kinds of problems help introduce you to the complex number system, which is just an extension of the real numbers. It allows us to solve equations that we couldn't solve before, like:</p>
+
+						<p>x² + 1 = 0 → In real numbers, this has no solution. But in complex numbers, it has two solutions: x = i and x = -i</p>
+
+						<p>To summarize:</p>
+						<p>1. The square root of a negative number is not possible with real numbers.</p>
+						<p>2. We use the imaginary unit <strong>i</strong>, where i = √(-1).</p>
+						<p>3. √(-a) = √(a) × i for any positive number a.</p>
+						<p>4. Imaginary numbers can be combined with real numbers to form complex numbers (a + bi).</p>
+						<p>5. Complex numbers are very useful in solving all kinds of mathematical problems that real numbers can't handle alone.</p>
+
+						<p>Understanding the complex number system helps you work with more advanced math in high school, college, and beyond. It’s also used in real-world things like electronics, signal processing, quantum physics, and computer graphics!</p>
+
+                            
+						</div>
+                         <hr>
+				    </div>
+					
 					<div class="col-lg-3">
 						<div class="panel panel-default">
 								<div class="panel-heading">
@@ -195,9 +191,16 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-                <li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1cont.php">8.1 Simplifying Expressions with Roots</a></li>
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson2cont.php">8.2 Simplifying Radical Expressions</a></li>
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson3cont.php">8.3 Simplify Rational Exponents</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson4.php">8.4 Add, Subtract, and Multiply Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5.php">8.5 Divide Radical Expressions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5cont.php">8.5 Divide Radical Expressions cont.</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson6.php">8.6 Solve Radical Equations</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="Algebralesson6cont.php">8.6 Solve Radical Equations cont.</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="Algebralesson7.php">8.7 Use Radicals in Functions</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="Algebralesson7cont.php">8.7 Use Radicals in Functions cont.</a></li>
 								</ul>
 							</div>
 						</div>
@@ -207,9 +210,9 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-									<li class="list-group-item" style="padding:0px 0px 10px 0px;">
-										<a href="AlgebraLesson1&2wp.php">Word Problems On Lessons 1 & 2</a>
-									</li>
+								<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson1&2wp.php">Problems On Lessons 1 & 2<a></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson5wp.php">Problems On Lesson 5<a></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="AlgebraLesson6wp.php">Problems on Lesson 6<a></li>
 								</ul>
 							</div>
 						</div>
